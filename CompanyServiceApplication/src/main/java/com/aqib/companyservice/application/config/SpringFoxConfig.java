@@ -46,7 +46,7 @@ public class SpringFoxConfig
         return new ApiInfoBuilder()
                 .title("Company/Ipo Rest APIs")
                 .description("API reference for Company/Ipo Service")
-                .contact(new Contact("Aditya Kshettri", "https://github.com/AdityaKshettri", "adikshettri1623@gmail.com"))
+                .contact(new Contact("Aqib Khan", "https://github.com/AQIBMNNIT", "aqib503@gmail.com"))
                 .version("1.0")
                 .build();
     }
